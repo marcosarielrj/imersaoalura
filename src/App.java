@@ -23,7 +23,7 @@ public class App {
 
         var gerador = new GeradorDeFigurinha();
 
-        for (int i = 0; i < 2; i++ ) {
+        for (int i = 0; i < 4; i++ ) {
 
             Conteudo conteudo = conteudos.get(i);
 
